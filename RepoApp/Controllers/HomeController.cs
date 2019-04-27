@@ -15,7 +15,7 @@ namespace RepoApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Try out new things in the about page!!!!!";
 
             return View();
         }
